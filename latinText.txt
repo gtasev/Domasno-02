@@ -1,0 +1,38 @@
+									Promena na tekst od latinichno vo kirilchno pismo  
+
+
+Ovoj tekst pretstavuva primer kako so pomosch na odreden kod vo 'javascript' mozheme da transformirame latinichen tekst, 
+vo tekst so kirilchno pismo:
+
+Nekolku primeri za zborovi so karakteristichni kirilchni bukvi:
+
+CH - Tcheshka, chekan, cheshma, chirak, CHORBADJIJA
+
+KJ - Kjumur, kje, kjutuk, KJAR
+
+NJ - Konj, Njegosh, KAMENJA
+
+LJ - Ljubljana, Bogoljub, LJUBOV
+
+ZH - Zheneva, zchena, zhivot, ZHITO
+
+GJ - Gjumbir, gjon, GJOKO 
+
+Dokolku tekstot e vo navodnici od tipot "" ili od tipot '' nema da bide promenet vo kirilichno pismo. 
+Pr: Zborovite vo rechenicata "koi se vo" navodnici, 'NEMA' da bidat "promeneti" vo kirilchno 'pismo'. 
+
+
+
+
+									Batko - Gjorgija od Kumanovo
+
+Gjorgija besche minatoto leto za Chile. Tamu toj kratko rabotesche no zaraboti(kjari) mnogu pari i zamina na shetanje vo Amerika.
+Vo Amerika poseti mnogu mesta, javashe na nilski konj, vozeshe brzi koli, letasche so paraglajderi i edrilici, besche vo 
+najgolemite luna-parkovi i na krajot posle dva meseci ostana bez pari.
+No bez razlika na se, momentite koi gi pomina tamu kje gi pameti cel svoj zhivot...... 
+
+
+
+Za kraj proba dali site znaci isto taka se prenesuvaat bez greshka:
+
+1  2  3  4  5  6  7  8  9  0   ~  !  @  #  $  %  ^  &  *  (  )  _  +  <  >  ?  /  .  , "" ''   :  ;
